@@ -141,7 +141,7 @@ Each example was converted into an instruction-following conversational format:
 
 | Split | Examples |
 |---|---|
-| Training | 3,000 |
+| Training | 4,000 |
 | Validation | 500 |
 | Test | 500 |
 | Total | 5,000 |
